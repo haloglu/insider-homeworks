@@ -1,4 +1,4 @@
-# Week 2 - JavaScript Logic & Algorithms 🔢
+# Week 2 - JavaScript Basics 🔢
 
 This week focuses on **JavaScript fundamentals, object manipulation, algorithmic problem-solving, and event-driven programming**.  
 The assignments cover the use of **objects, arrays, functions, and algorithms** to develop dynamic, interactive, and efficient web applications.

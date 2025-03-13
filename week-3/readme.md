@@ -1,4 +1,4 @@
-# Week 3 - Interactive UI & Data Fetching 🌐
+# Week 3 - jQuery & DOM Manipulation 🌐
 
 This week focuses on **dynamic user interfaces, event-driven programming, and asynchronous data fetching**.  
 The assignments include creating **interactive UI components, fetching external data via AJAX, and handling user interactions efficiently**.

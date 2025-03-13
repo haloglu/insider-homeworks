@@ -1,4 +1,4 @@
-# Week 1 - Frontend Fundamentals 🚀
+# Week 1 - HTML, CSS, and Responsive Design 🚀
 
 This week focuses on **frontend development basics**, including form design, hover effects, and responsive product cards.
 
