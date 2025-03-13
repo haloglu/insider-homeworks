@@ -1,4 +1,4 @@
-# To-Do List App ✅
+# Real Time Management Application ✅
 
 This assignment focuses on **creating an interactive task management application**, where users can dynamically manage their to-do items.
 
