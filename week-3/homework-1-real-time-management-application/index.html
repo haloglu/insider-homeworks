@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gerçek Zamanlı Yönetim Uygulaması (jQuery) - Insider</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="icon"
+      href="https://useinsider.com/favicon.ico"
+      type="image/x-icon"
+    />
+  </head>
+  <body>
+    <!--Task title, task descripton and button to add new task -->
+    <div class="container">
+      <h1>Gerçek Zamanlı Yönetim Uygulaması</h1>
+      <p>Yeni bir görev eklemek için aşağıdaki formu kullanabilirsiniz.</p>
+      <form id="task-form">
+        <input
+          type="text"
+          id="task-title"
+          placeholder="Görev Başlığı"
+          required
+        />
+        <textarea
+          id="task-description"
+          placeholder="Görev Açıklaması"
+          required
+        ></textarea>
+        <button id="submit">Görev Ekle</button>
+      </form>
+
+      <div class="task-list-container">
+        <h2>Görev Listesi</h2>
+        <ul id="task-list"></ul>
+      </div>
+    </div>
+  </body>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script src="script.js"></script>
+</html>

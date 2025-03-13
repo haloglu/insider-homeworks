@@ -1,0 +1,56 @@
+[
+  {
+    "productName": "Laptop",
+    "price": 1200,
+    "link": "https://dummy.com/laptop",
+    "image": "https://dummyimage.com/200x150/000/fff&text=Laptop"
+  },
+  {
+    "productName": "Smartphone",
+    "price": 800,
+    "link": "https://dummy.com/smartphone",
+    "image": "https://dummyimage.com/200x150/000/fff&text=Smartphone"
+  },
+  {
+    "productName": "Tablet",
+    "price": 500,
+    "link": "https://dummy.com/tablet",
+    "image": "https://dummyimage.com/200x150/000/fff&text=Tablet"
+  },
+  {
+    "productName": "Headphones",
+    "price": 100,
+    "link": "https://dummy.com/headphones",
+    "image": "https://dummyimage.com/200x150/000/fff&text=Headphones"
+  },
+  {
+    "productName": "Smartwatch",
+    "price": 300,
+    "link": "https://dummy.com/smartwatch",
+    "image": "https://dummyimage.com/200x150/000/fff&text=Smartwatch"
+  },
+  {
+    "productName": "Wireless Mouse",
+    "price": 80,
+    "link": "https://dummy.com/wireless-mouse",
+    "image": "https://dummyimage.com/200x150/000/fff&text=Wireless+Mouse"
+  },
+  {
+    "productName": "Printer",
+    "price": 250,
+    "link": "https://dummy.com/printer",
+    "image": "https://dummyimage.com/200x150/000/fff&text=Printer"
+  },
+  {
+    "productName": "Monitor",
+    "price": 350,
+    "link": "https://dummy.com/monitor",
+    "image": "https://dummyimage.com/200x150/000/fff&text=Monitor"
+  },
+  {
+    "productName": "Hard Drive",
+    "price": 120,
+    "link": "https://dummy.com/hard-drive",
+    "image": "https://dummyimage.com/200x150/000/fff&text=External+Hard+Drive"
+  }
+]

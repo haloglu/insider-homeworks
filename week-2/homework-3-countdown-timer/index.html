@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Geri Sayım Aracı - Insider</title>
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link
+      rel="icon"
+      href="https://useinsider.com/favicon.ico"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+  </head>
+  <body>
+    <div class="card" id="countdownCard">
+      <h1>Geri Sayım Aracı</h1>
+
+      <div class="time-inputs">
+        <input
+          type="number"
+          id="hoursInput"
+          placeholder="Saat"
+          min="0"
+          max="99"
+          oninput="this.value = this.value.replace(/[^0-9]/g, '')"
+        />
+        <input
+          type="number"
+          id="minutesInput"
+          placeholder="Dakika"
+          min="0"
+          max="59"
+          oninput="this.value = this.value.replace(/[^0-9]/g, '')"
+        />
+        <input
+          type="number"
+          id="secondsInput"
+          placeholder="Saniye"
+          min="0"
+          max="59"
+          oninput="this.value = this.value.replace(/[^0-9]/g, '')"
+        />
+      </div>
+
+      <div class="button-group">
+        <button id="startButton" onclick="toggleCountdown()" class="start">
+          <span class="material-icons">play_arrow</span>
+        </button>
+        <button onclick="clearCountdown()" class="clear">
+          <span class="material-icons">refresh</span>
+        </button>
+      </div>
+
+      <span class="countdown">00:00:00</span>
+    </div>
+
+    <script src="./assets/js/script.js"></script>
+  </body>
+</html>

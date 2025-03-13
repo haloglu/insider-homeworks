@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Collatz Problem - Insider</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="icon"
+      href="https://useinsider.com/favicon.ico"
+      type="image/x-icon"
+    />
+  </head>
+  <body>
+    <!-- Görsel açıdan güzelleştirilmiş div yapısı -->
+
+    <div class="card">
+      <h1>Collatz Problemi</h1>
+      <input
+        type="number"
+        id="numberInput"
+        placeholder="Bir sayı girin"
+        min="1"
+      />
+      <button onclick="startCollatz()">Hesapla</button>
+      <div class="timer" id="timer"></div>
+      <div class="results" id="results"></div>
+    </div>
+
+    <!--  Temel olarak div yapısı -->
+
+    <!--
+        <div id="collatz"></div>
+    -->
+  </body>
+  <script src="script.js"></script>
+</html>
