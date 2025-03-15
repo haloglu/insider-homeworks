@@ -13,8 +13,6 @@ This repository contains the **debugging and improvement process** for a JavaScr
 ## 📄 Documentation
 
 The full **debugging report and implemented changes** are available in the **PDF document**.  
-📌 _(PDF link will be added after upload.)_
+📌 [**Click here to view the full report**](https://github.com/haloglu/insider-homeworks/blob/main/week-4/homework-2-shopping-card-debugging/shopping-card-debugging-homework-2.pdf)
 
 ---
-
-🔹 **Author:** _(Your Name Here)_
