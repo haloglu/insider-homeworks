@@ -29,7 +29,21 @@ Each week includes **various coding challenges** covering **HTML, CSS, JavaScrip
 
 ### **🔹 Week 4 - Advanced JavaScript & Web APIs**
 
+### **🔹 Week 4 - Advanced JavaScript & Web APIs**
+
 - 🌍 **[Fetch API User List with LocalStorage](https://github.com/haloglu/insider-homeworks/tree/main/Week%204/Homework%201%20-%20Fetch%20API%20User%20List%20with%20localStorage)**: Fetch user data via **Fetch API**, store it in **localStorage**, and manage updates dynamically.
+- 🛒 **[Shopping Cart Debugging & Enhancements](https://github.com/haloglu/insider-homeworks/tree/main/week-4/homework-2-shopping-card-debugging)**: Debugged and improved a shopping cart system, fixing stock management, discount application, and UI updates.
+
+---
+
+## 🏆 **Final Projects for Each Week**
+
+As part of the **final challenge** for each week, I developed a comprehensive project to apply the learned concepts:
+
+- **🏁 Week 1 Final Project:** [Squid Game Season 2 Fan Page](https://github.com/haloglu/squid-game-season-2-fan-page)
+- **🏁 Week 2 Final Project:** [Taskrix - Task Management App](https://github.com/haloglu/taskrix)
+- **🏁 Week 3 Final Project:** [Synthaflow - Dynamic Music Player](https://github.com/haloglu/synthaflow)
+- **🏁 Week 4 Final Project:** _Coming Soon..._
 
 ---
 
