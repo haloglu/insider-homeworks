@@ -41,7 +41,7 @@ As part of the **final challenge** for each week, I developed a comprehensive pr
 - **🏁 Week 1 Final Project:** [Squid Game Season 2 Fan Page](https://github.com/haloglu/squid-game-season-2-fan-page)
 - **🏁 Week 2 Final Project:** [Taskrix - Task Management App](https://github.com/haloglu/taskrix)
 - **🏁 Week 3 Final Project:** [Synthaflow - Dynamic Music Player](https://github.com/haloglu/synthaflow)
-- **🏁 Week 4 Final Project:** _Coming Soon..._
+- **🏁 Week 4 Final Project:** [Element Tracker](https://github.com/haloglu/element-tracker)
 
 ---
 
